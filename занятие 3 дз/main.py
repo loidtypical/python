@@ -1,0 +1,15 @@
+# w=int(input())
+# print("Следующее за числом",w,"число:",w+1)
+# print("Для числа",w,"предыдущее число:",w-1)
+
+# a=int(input())
+# b=int(input())
+# c=int(input())
+# d=int(input())
+# print((a+b+c+d)*3)
+
+a=int(input())
+d=int(input())
+print(a,"+",d,"=",a+d)
+print(a,"-",d,"=",a-d)
+print(a,"*",d,"=",a*d)
